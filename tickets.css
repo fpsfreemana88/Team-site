@@ -1,0 +1,34 @@
+
+body {
+  background: #1894da;
+}
+p {
+  color: black;
+  font-size: 19px;
+}
+h1 {
+  font-weight: bold;
+  font-size: 39px;
+}
+
+h3 {
+  font-size: 26px;
+}
+
+.img {
+  height: 335px;
+  width: 550px;
+  align-items: center;
+  border: 11px;
+  border-style: double;
+  border-color: black;
+  
+}
+
+.container-2 {
+  display: flex;
+  align-items: center;
+  background-color: #1478f6;
+  padding: 11px;
+  
+}
